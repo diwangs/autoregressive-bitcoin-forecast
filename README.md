@@ -1,4 +1,7 @@
 # Feedback-Loop Bitcoin Forecast
+
+![Forecast](forecast-200e.png)
+
 This is an LSTM ANN for forecasting price data (not just bitcoin, but I'm using bitcoin for this example). Built using Keras and read data in chunks so it's able to handle large dataset.
 
 ### Feedback loop?
